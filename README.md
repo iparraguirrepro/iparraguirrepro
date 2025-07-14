@@ -1,17 +1,21 @@
-# Hola, soy Jonatan
+# Hola, soy Jonatan Iparraguirre
+
+**¿Buscas un desarrollador de software?** <br> 
+[jonatan@iparraguirre.pro](mailto:jonatan@iparraguirre.pro).
+
+
+## Github
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iparraguirrepro&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## Sobre Mi
+
 Artesano digital con enfoque integral 🔥. <br>
 Combino mi experiencia en desarrollo web con conocimientos en creación de aplicaciones móviles y liderazgo de equipos digitales. 
-</br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=iparraguirrepro&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</br>
+
 ## Skills:
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
