@@ -3,11 +3,6 @@
 **¿Buscas un desarrollador de software?** <br> 
 [jonatan@iparraguirre.pro](mailto:jonatan@iparraguirre.pro).
 
-
-## Github
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iparraguirrepro&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ## Sobre Mi
 
 Artesano digital con enfoque integral 🔥. <br>
